@@ -1,2 +1,2 @@
 # 2.Odev-Web-Sayfasi-
-Kodluyoruz 2. Ödev Web Sayfası
+Kodluyoruz ile yaptığım 2. Ödev Web Sayfası
