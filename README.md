@@ -1,2 +1,2 @@
-# 2.-dev-Web-Sayfas-
+# 2.Odev-Web-Sayfasi-
 Kodluyoruz 2. Ödev Web Sayfası
